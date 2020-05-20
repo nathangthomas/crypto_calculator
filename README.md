@@ -28,7 +28,8 @@ You can also interact with a live version of Crypto Calculator [HERE](https://cr
 ## Helpful Terminal Commands:
 - `rails new crypto-calculator -d=postgresql --webpack=react` creates a new Meteor app using a postgresql database and react webpack.
 - `rails db: create` creates a new database
-- 
+- `rails g model Currency name description maxsupply:bigint currency_symbol slug` rails generator to create a model
+
 
 ## Helpful Links:
 
