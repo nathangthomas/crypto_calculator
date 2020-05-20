@@ -1,5 +1,5 @@
 # Welcome to Crypto Calculator
-This application was created as an exercise to further explore using React within a Rails application.
+This application was created as an exercise to further develop my front end skills and to explore using React within a Rails application.
 
 ## Table of Contents
 <!--ts-->
