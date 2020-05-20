@@ -17,7 +17,7 @@ This application was created as an exercise to further explore using React withi
 https://github.com/nathangthomas/crypto_calculator
 ```
 ### Run Meteor Recipe Book Locally
-- Type `rails` in your terminal to spin up your server.
+- Type `rails s` in your terminal to spin up your server.
 - Visit [http://localhost:3000/](http://localhost:3000/) in your browser to interact with the app.
 
 
@@ -35,7 +35,7 @@ You can also interact with a live version of Crypto Calculator [HERE](https://cr
 - `rails c` rails console (interact with postgreSQL database)
 - `bundle install` installs newly added gems
 - `rails routes` `rake routes` displays routes in terminal
-- ``
+- `rails s` spins up local server
 ## Helpful Links:
 
 ## Tech Stack:
